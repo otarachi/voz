@@ -27,6 +27,8 @@
                         <Setter Property="VerticalAlignment" Value="Center" />
                     </Style>
                 </StackPanel.Resources>
+                
+                
 
                 <StackPanel>
                     <Label Content="Tài khoản" Target="{Binding ElementName=Username}"/>
