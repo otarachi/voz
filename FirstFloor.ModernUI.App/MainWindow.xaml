@@ -27,8 +27,7 @@
                 <mui:Link DisplayName="List" Source="/Pages/LayoutList.xaml"  />
                 <mui:Link DisplayName="Tab" Source="/Pages/LayoutTab.xaml" />
             </mui:LinkGroup.Links>
-        </mui:LinkGroup>
-        
+        </mui:LinkGroup>        
         <mui:LinkGroup DisplayName="Controls">
             <mui:LinkGroup.Links>
                 <mui:Link DisplayName="Styles" Source="/Pages/ControlsStyles.xaml" />
